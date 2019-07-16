@@ -11,6 +11,7 @@ public class Branch2 {
         System.out.println("ha ha ha ha ha");
         System.out.println("ha ha ha ha ha");
         System.out.println("无敌");
+        System.out.println("activity");
         System.out.println("branch2 is not finished");
     }
 }
