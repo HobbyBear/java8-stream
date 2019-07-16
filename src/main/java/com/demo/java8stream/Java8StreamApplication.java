@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Java8StreamApplication {
 
     public static void main(String[] args) {
+        System.out.println("无敌");
         SpringApplication.run(Java8StreamApplication.class, args);
     }
 
